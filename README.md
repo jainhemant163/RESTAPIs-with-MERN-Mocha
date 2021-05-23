@@ -1,7 +1,7 @@
 
 Book Application
 
-[![Build Status](https://travis-ci.org/jainhemant163/RESTAPIs-with-MERN-Mocha.svg?branch=main)](https://travis-ci.org/jainhemant163/RESTAPIs-with-MERN-Mocha)   [![Coverage Status](https://coveralls.io/repos/github/victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate/badge.svg?branch=master)](https://coveralls.io/github/victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate?branch=master)    [![Maintainability](https://api.codeclimate.com/v1/badges/750e4ce5c8a8112eec3a/maintainability)](https://codeclimate.com/github/victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate/maintainability) 
+[![Build Status](https://travis-ci.org/jainhemant163/RESTAPIs-with-MERN-Mocha.svg?branch=main)](https://travis-ci.org/jainhemant163/RESTAPIs-with-MERN-Mocha)  [![Coverage Status](https://coveralls.io/repos/github/jainhemant163/RESTAPIs-with-MERN-Mocha/badge.svg?branch=main)](https://coveralls.io/github/jainhemant163/RESTAPIs-with-MERN-Mocha?branch=main)  [![Maintainability](https://api.codeclimate.com/v1/badges/750e4ce5c8a8112eec3a/maintainability)](https://codeclimate.com/github/victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate/maintainability) 
 
 > A Simple Book RestAPI
 
