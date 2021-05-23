@@ -34,7 +34,7 @@ Book Application
 
 #### Clone
 
-- Clone this project to your local machine `git@github.com:victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate.git`
+- Clone this project to your local machine `https://github.com/jainhemant163/RESTAPIs-with-MERN-Mocha.git`
 
 #### Setup
 
@@ -72,7 +72,5 @@ Book Application
 
 ## Author
 
-- Steven Victor
-   medium: medium.com/@victorsteven  
-   twitter: twitter.com/stevensunflash  
-   linkedin: linkedin.com/in/stevenchikodi
+- Hemant Jain
+
